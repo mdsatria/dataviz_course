@@ -5,6 +5,7 @@ Repositori ini berisi materi perkuliahan Data Visualization kelas BA173 dan kela
 1. Materi, materi perkuliahan dalam bentuk PDF.
 2. Dataset, data yang akan digunakan untuk praktikum dan contoh studi kasus.
 3. Notebook, code python dalam bentuk jupyter notebook yang digunakan saat praktikum.
+
 Repositori ini akan terus diperbaharui setiap pertemuan.
 
 Selamat Belajar !
