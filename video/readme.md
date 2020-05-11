@@ -8,4 +8,4 @@
 
 **[4. Visualisasi Hubungan/Korelasi antar Data dengan Python (bagian 1)](https://web.microsoftstream.com/video/f68642b1-5d71-4ac9-bbf7-a91fb25b801e)**
 
-**[4. Visualisasi Hubungan/Korelasi antar Data dengan Python (bagian 1)](https://web.microsoftstream.com/video/a4832775-1b8e-4833-aa43-ed1689a86b92 )**
+**[4. Visualisasi Hubungan/Korelasi antar Data dengan Python (bagian 2)](https://web.microsoftstream.com/video/a4832775-1b8e-4833-aa43-ed1689a86b92 )**
