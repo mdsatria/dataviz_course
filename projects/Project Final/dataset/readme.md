@@ -14,7 +14,7 @@ data ini merupakan penjualan buku dalam suatu situs penjualan buku
 * num_pages = jumlah halaman buku
 * ratings_count = jumlah user yang melakukan rating
 * text_reviews_count = panjang teks review
-* publication_date = tanggal terbit buku
+* year = tahun terbit buku
 
 
 
