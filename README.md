@@ -1,4 +1,3 @@
-# dataviz_course
 # DATA VISUALIZATION 
 
 Repositori ini berisi materi perkuliahan Data Visualization kelas BA173 dan kelas CA173. Terdapat 3 folder dalam repositori ini, yaitu :
